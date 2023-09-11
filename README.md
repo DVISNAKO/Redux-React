@@ -1,3 +1,7 @@
+
+![Screenshot 2023-09-11 150251](https://github.com/DVISNAKO/Redux-React/assets/106438454/ab406986-df68-43d2-9662-d587bf2e2707)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
